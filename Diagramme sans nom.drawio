@@ -1,0 +1,31 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="Page-1" id="B_h-y-ApBOAh_CHTC-X1">
+    <mxGraphModel dx="1075" dy="549" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="z-8RoE2qSCKzZ3vG5x_B-1" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" value="&#xa;Utilisateur&#xa;&#xa;" vertex="1">
+          <mxGeometry height="60" width="30" x="90" y="80" as="geometry" />
+        </mxCell>
+        <mxCell id="z-8RoE2qSCKzZ3vG5x_B-2" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;" value="Poser une question" vertex="1">
+          <mxGeometry height="80" width="330" x="240" y="60" as="geometry" />
+        </mxCell>
+        <mxCell id="z-8RoE2qSCKzZ3vG5x_B-3" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" value="Administrateur" vertex="1">
+          <mxGeometry height="60" width="30" x="100" y="410" as="geometry" />
+        </mxCell>
+        <mxCell id="z-8RoE2qSCKzZ3vG5x_B-4" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;" value="Consulter la réponse et&amp;nbsp;les sources" vertex="1">
+          <mxGeometry height="80" width="330" x="248" y="170" as="geometry" />
+        </mxCell>
+        <mxCell id="z-8RoE2qSCKzZ3vG5x_B-5" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;" value="Gérer les documents" vertex="1">
+          <mxGeometry height="80" width="330" x="260" y="310" as="geometry" />
+        </mxCell>
+        <mxCell id="z-8RoE2qSCKzZ3vG5x_B-6" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;" value="Consulter les statistiques" vertex="1">
+          <mxGeometry height="80" width="330" x="260" y="410" as="geometry" />
+        </mxCell>
+        <mxCell id="z-8RoE2qSCKzZ3vG5x_B-7" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;" value="Générer une réponse contextualisée" vertex="1">
+          <mxGeometry height="80" width="330" x="270" y="505" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
