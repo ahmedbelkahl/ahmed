@@ -43,7 +43,7 @@
           <mxGeometry height="60" width="30" x="90" y="350" as="geometry" />
         </mxCell>
         <mxCell id="ArUFQnB-5VZnTST7sskS-3" parent="ArUFQnB-5VZnTST7sskS-1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;shadow=0;labelBackgroundColor=none;fillColor=#09555B;strokeColor=#BAC8D3;fontColor=#EEEEEE;" value="Consulter statistiques" vertex="1">
-          <mxGeometry height="60" width="300" x="240" y="886" as="geometry" />
+          <mxGeometry height="60" width="300" x="245" y="870" as="geometry" />
         </mxCell>
         <mxCell id="vkBEnzTnAZl4kkGI8sIN-19" edge="1" parent="ArUFQnB-5VZnTST7sskS-1" source="ArUFQnB-5VZnTST7sskS-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=none;strokeColor=#0B4D6A;fontColor=default;" target="vkBEnzTnAZl4kkGI8sIN-2">
           <mxGeometry relative="1" as="geometry" />
@@ -55,25 +55,25 @@
           <mxGeometry height="60" width="30" x="90" y="797" as="geometry" />
         </mxCell>
         <mxCell id="vkBEnzTnAZl4kkGI8sIN-0" parent="ArUFQnB-5VZnTST7sskS-1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;shadow=0;labelBackgroundColor=none;fillColor=#09555B;strokeColor=#BAC8D3;fontColor=#EEEEEE;" value="Rechercher les informations pertinentes" vertex="1">
-          <mxGeometry height="60" width="300" x="250" y="423" as="geometry" />
+          <mxGeometry height="60" width="300" x="248" y="394" as="geometry" />
         </mxCell>
         <mxCell id="vkBEnzTnAZl4kkGI8sIN-1" parent="ArUFQnB-5VZnTST7sskS-1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;shadow=0;labelBackgroundColor=none;fillColor=#09555B;strokeColor=#BAC8D3;fontColor=#EEEEEE;" value="Consulter la réponse et les sources" vertex="1">
-          <mxGeometry height="60" width="300" x="250" y="701" as="geometry" />
+          <mxGeometry height="60" width="300" x="250" y="662" as="geometry" />
         </mxCell>
         <mxCell id="vkBEnzTnAZl4kkGI8sIN-2" parent="ArUFQnB-5VZnTST7sskS-1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;shadow=0;labelBackgroundColor=none;fillColor=#09555B;strokeColor=#BAC8D3;fontColor=#EEEEEE;" value="Gérer les documents" vertex="1">
-          <mxGeometry height="60" width="300" x="250" y="797" as="geometry" />
+          <mxGeometry height="60" width="300" x="245" y="750" as="geometry" />
         </mxCell>
         <mxCell id="vkBEnzTnAZl4kkGI8sIN-3" parent="ArUFQnB-5VZnTST7sskS-1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;shadow=0;labelBackgroundColor=none;fillColor=#09555B;strokeColor=#BAC8D3;fontColor=#EEEEEE;" value="Générer une réponse contextualisée" vertex="1">
-          <mxGeometry height="60" width="300" x="250" y="613" as="geometry" />
+          <mxGeometry height="60" width="300" x="256" y="573" as="geometry" />
         </mxCell>
         <mxCell id="vkBEnzTnAZl4kkGI8sIN-4" parent="ArUFQnB-5VZnTST7sskS-1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;shadow=0;labelBackgroundColor=none;fillColor=#09555B;strokeColor=#BAC8D3;fontColor=#EEEEEE;" value="Poser une question" vertex="1">
           <mxGeometry height="60" width="300" x="250" y="210" as="geometry" />
         </mxCell>
         <mxCell id="vkBEnzTnAZl4kkGI8sIN-5" parent="ArUFQnB-5VZnTST7sskS-1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;shadow=0;labelBackgroundColor=none;fillColor=#09555B;strokeColor=#BAC8D3;fontColor=#EEEEEE;" value="Récupérer les passages pertinents" vertex="1">
-          <mxGeometry height="60" width="300" x="250" y="523" as="geometry" />
+          <mxGeometry height="60" width="300" x="250" y="486" as="geometry" />
         </mxCell>
         <mxCell id="vkBEnzTnAZl4kkGI8sIN-6" parent="ArUFQnB-5VZnTST7sskS-1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;shadow=0;labelBackgroundColor=none;fillColor=#09555B;strokeColor=#BAC8D3;fontColor=#EEEEEE;" value="Analyser la question" vertex="1">
-          <mxGeometry height="60" width="300" x="250" y="317" as="geometry" />
+          <mxGeometry height="60" width="300" x="248" y="301" as="geometry" />
         </mxCell>
         <mxCell id="vkBEnzTnAZl4kkGI8sIN-21" parent="ArUFQnB-5VZnTST7sskS-1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;shadow=0;rotation=90;labelBackgroundColor=none;fillColor=#09555B;strokeColor=#BAC8D3;fontColor=#EEEEEE;" value="S&#39;authentifier" vertex="1">
           <mxGeometry height="60" width="300" x="550" y="750" as="geometry" />
